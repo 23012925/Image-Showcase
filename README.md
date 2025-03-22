@@ -64,23 +64,23 @@ index.html
                 <div class="caption">Caption 5</div>
             </div>
             <div class="image-container">
-                <img src="C:\Users\admin\Documents\html\Rose(pink).jpg" alt="Image 5">
+                <img src="C:\Users\admin\Documents\html\Rose(pink).jpg" alt="Image 6">
                 <div class="caption">Caption 6</div>
             </div>
             <div class="image-container">
-                <img src="C:\Users\admin\Documents\html\Rose(red).jpeg" alt="Image 5">
+                <img src="C:\Users\admin\Documents\html\Rose(red).jpeg" alt="Image 7">
                 <div class="caption">Caption 7</div>
             </div>
             <div class="image-container">
-                <img src="C:\Users\admin\Documents\html\Rose(sandal).jpeg" alt="Image 5">
+                <img src="C:\Users\admin\Documents\html\Rose(sandal).jpeg" alt="Image 8">
                 <div class="caption">Caption 8</div>
             </div>
             <div class="image-container">
-                <img src="C:\Users\admin\Documents\html\Rose(violet).jpg" alt="Image 5">
+                <img src="C:\Users\admin\Documents\html\Rose(violet).jpg" alt="Image 9">
                 <div class="caption">Caption 9</div>
             </div>
             <div class="image-container">
-                <img src="C:\Users\admin\Documents\html\Rose(black).jpeg" alt="Image 5">
+                <img src="C:\Users\admin\Documents\html\Rose(black).jpeg" alt="Image 10">
                 <div class="caption">Caption 10</div>
             </div>
         </div>
